@@ -1,2 +1,2 @@
-# Lancher
+# Launcher
 A quick launcher 
